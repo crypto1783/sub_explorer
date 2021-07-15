@@ -1,0 +1,18 @@
+{
+  "name": "subserver",
+  "version": "1.0.0",
+  "description": "server code for RESTful API",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "xjl",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "2.16.0",
+    "node-schedule": "^2.0.0",
+    "sequelize": "3.24.1"
+  }
+}
